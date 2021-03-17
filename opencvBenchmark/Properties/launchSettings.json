@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "opencvBenchmark": {
+      "commandName": "Project"
+    },
+    "visual opencvBenchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "show"
+    }
+  }
+}

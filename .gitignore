@@ -1,0 +1,6 @@
+﻿.vs
+opencv_files
+opencvcpp/x64
+opencvBenchmark/obj
+opencvBenchmark/bin
+*.user
